@@ -19,7 +19,7 @@ This project is a Python-based gaze tracking system that uses opencv and [MediaP
 - NumPy (`numpy`)
 - SciPy (`scipy`)
 
-## Notes
+Notes:
 - Press ESC during calibration to abort.
 - The script uses the first detected face in the webcam feed.
 - Data is overwritten each run.
